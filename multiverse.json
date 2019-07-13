@@ -1,0 +1,27 @@
+{
+  "channel_name": "Il nome che avete scelto (es:Dexter Channel)",
+  "fanart": "link diretto dell'immagine scelta",
+  "thumbnail": "link diretto dell'immagine scelta",
+  "menu": [
+    {
+      "title": "Universo - Film",
+      "link": "link diretto a FILE 2",
+      "thumbnail": "link diretto dell'immagine scelta"
+    },
+    {
+      "title": "Universo - Serie",
+      "link": "link diretto al FILE 3",
+      "thumbnail": "link diretto dell'immagine scelta"
+    },
+    {
+      "title": "Unimerso Musica",
+      "link": "link diretto a FILE 2",
+      "thumbnail": "link diretto dell'immagine scelta"
+    },
+    {
+      "title": "Universo Spettacolo",
+      "link": "link diretto al FILE 3",
+      "thumbnail": "link diretto dell'immagine scelta"
+    }
+  ]
+} 
