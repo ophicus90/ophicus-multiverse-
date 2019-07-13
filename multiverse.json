@@ -1,26 +1,30 @@
 {
-  "channel_name": "Il nome che avete scelto (es:Dexter Channel)",
-  "fanart": "link diretto dell'immagine scelta",
-  "thumbnail": "link diretto dell'immagine scelta",
+  "channel_name": "OPHICUS - MULTIVERSE",
+  "fanart": "https://i0.wp.com/ticgamesnetwork.com/wp-content/uploads/2019/01/multiverseshowTIC.jpg?fit=1920%2C1080&ssl=1",
+  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDFvTasXXOCSvd_pCFcHkYZFQtEPEtU9t7tuNQLai5MlnHvP75",
   "menu": [
     {
       "title": "Universo - Film",
       "link": "link diretto a FILE 2",
+      "fanart": "",
       "thumbnail": "link diretto dell'immagine scelta"
     },
     {
       "title": "Universo - Serie",
       "link": "link diretto al FILE 3",
+      "fanart": "",
       "thumbnail": "link diretto dell'immagine scelta"
     },
     {
       "title": "Unimerso Musica",
       "link": "link diretto a FILE 2",
+      "fanart": "",
       "thumbnail": "link diretto dell'immagine scelta"
     },
     {
       "title": "Universo Spettacolo",
       "link": "link diretto al FILE 3",
+      "fanart": "", 
       "thumbnail": "link diretto dell'immagine scelta"
     }
   ]
